@@ -4934,6 +4934,9 @@ tbody.collapse.show {
   margin-bottom: 2rem;
   background-color: #e9ecef;
   border-radius: 0.3rem;
+  background-image: url(../img/programming.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media (min-width: 576px) {
