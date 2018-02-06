@@ -412,6 +412,8 @@ h6, .h6 {
   font-size: 4.5rem;
   font-weight: 300;
   line-height: 1.2;
+  color:#ffffff;
+  text-shadow:5px 5px #000;
 }
 
 .display-4 {
